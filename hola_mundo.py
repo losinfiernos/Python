@@ -1,2 +1,2 @@
 ﻿print ("Hola mundo")
-print ("Adios mundo cruel")
+input()
